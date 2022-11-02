@@ -19,7 +19,6 @@ body:
       label: where did you find bug?
       multiple: true
       options:
-        - .github/workflow
         - *.ts
         - *.test.ts
         - linter ( prettier, eslint, etc.. )
