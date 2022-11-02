@@ -19,10 +19,10 @@ body:
       label: where did you find bug?
       multiple: true
       options:
-        - *.ts
-        - *.test.ts
-        - linter ( prettier, eslint, etc.. )
-        - documentation ( sry for my poor english )
+        - "*.ts"
+        - "*.test.ts"
+        - "linter ( prettier, eslint, etc.. )"
+        - "documentation ( sry for my poor english )"
 
   - type: textarea
     attributes:
